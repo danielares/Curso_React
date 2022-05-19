@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Playstation",
+      "price": "4000",
+      "id": 4
+    },
+    {
+      "name": "Xbox",
+      "price": "3500",
+      "id": 5
+    },
+    {
+      "name": "TV",
+      "price": "2500",
+      "id": 6
+    },
+    {
+      "name": "rtx 3080",
+      "price": "8000",
+      "id": 10
+    }
+  ]
+}
