@@ -34,21 +34,6 @@
       "name": "rtx 3080",
       "price": "8000",
       "id": 10
-    },
-    {
-      "name": "teste",
-      "price": "50",
-      "id": 11
-    },
-    {
-      "name": "suporte monitor ",
-      "price": "120",
-      "id": 12
-    },
-    {
-      "name": "iPhone 14",
-      "price": "6000",
-      "id": 13
     }
   ]
 }
