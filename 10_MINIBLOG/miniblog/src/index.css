@@ -95,7 +95,7 @@ textarea {
   background-color: #000;
 }
 
-.btn-btn-danger:hover {
+.btn.btn-danger:hover {
   background-color: #DC3545;
 }
 
